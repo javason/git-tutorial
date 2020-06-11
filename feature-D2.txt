@@ -3,3 +3,4 @@
 Reset-테스트1
 revert test1
 master에 hotfix_1
+hotfix는 무조건 master에서 처리되는구나
